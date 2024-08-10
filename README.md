@@ -9,11 +9,11 @@ Responsive design
 
 Technologies Used:
 
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
-API: ExchangeRate API
-Authentication: JSON Web Tokens (JWT)
+1)Frontend: React
+2)Backend: Node.js, Express.js
+3)Database: MongoDB
+4)API: ExchangeRate API
+5)Authentication: JSON Web Tokens (JWT)
 
 Installation: 
 
